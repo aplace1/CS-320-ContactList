@@ -51,3 +51,29 @@
 ### **How do I approach designing software?**
     I approach software development by breaking down the main goal into smaller pieces.
     After analyzing and sorting through each piece, I create the basic structure and implement the required functionality.
+
+### **Summarize the project and what problem it was solving.**
+    The project focuses on learning the fundamentals to unit-testing. It does not function as a useable program yet.
+
+### **What did you do particularly well?**
+    The project was structured decently; I do not usually think about what was done well. 
+    Instead, I prefer to think about how I can improve.
+
+### **Where could you enhance your code? How would these improvements make your code more efficient, secure, etcetera?**
+    I would implement a local database so that the program is usable. I would also like to implement a better 
+    algorithm for sorting and searching. A linear algorithm is not efficient and will 
+    become slower as more contacts are added.
+
+### **Did you find writing any piece of the code challenging and how did you overcome this?**
+    I did not find any of this code particularly difficult. I have worked with Java in 
+    the past which made this project significantly easier.
+
+### **What tools and/or resources are you adding to your support network?**
+    Using the Junit framework will help for other projects regarding Java.
+    I can see myself using this in the future for unit-testing.
+
+### **What Skills from this project will be particularly transferable to other projects and/or course work?**
+    The use of unit-testing is applicable to numerous other projects. In this course specifically,
+    with this project, the focus was primarily the Junit-Framework.
+
+
